@@ -1,5 +1,5 @@
 # LibraryManagment
-Library managment system with Mysql,Pyqt5 and Python 
+Library managment system with Mysql,Pyqt5 and Python and Excel reports 
 
 
 
